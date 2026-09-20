@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "profile": {
+    "career_goal": "product manager internship",
+    "target_role": "product manager",
+    "current_skills": "python,sql,communication,figma",
+    "experience": "student with academic projects\n",
+    "hours_per_week": 10,
+    "learning_preference": "Practical learning"
+  },
+  "document_analysis": {},
+  "skill_gaps": {},
+  "learning_objectives": {},
+  "recommended_resources": {},
+  "weekly_plan": {},
+  "practice_projects": {},
+  "activities": [
+    {
+      "activity_type": "Practice",
+      "skill": "Product prioritization",
+      "title": "Prioritize features using RICE",
+      "status": "Completed",
+      "estimated_minutes": 60,
+      "actual_minutes": 50,
+      "score": 85
+    },
+    {
+      "activity_type": "Practice",
+      "skill": "Product prioritization",
+      "title": "Prioritize features using RICE",
+      "status": "Completed",
+      "estimated_minutes": 60,
+      "actual_minutes": 50,
+      "score": 85
+    },
+    {
+      "activity_type": "Practice",
+      "skill": "Product prioritization",
+      "title": "Prioritize features using RICE",
+      "status": "Completed",
+      "estimated_minutes": 60,
+      "actual_minutes": 50,
+      "score": 85
+    }
+  ]
+}

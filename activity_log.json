@@ -1,0 +1,29 @@
+[
+  {
+    "activity_type": "Practice",
+    "skill": "Product prioritization",
+    "title": "Prioritize features using RICE",
+    "status": "Completed",
+    "estimated_minutes": 60,
+    "actual_minutes": 50,
+    "score": 85
+  },
+  {
+    "activity_type": "Practice",
+    "skill": "Product prioritization",
+    "title": "Prioritize features using RICE",
+    "status": "Completed",
+    "estimated_minutes": 60,
+    "actual_minutes": 50,
+    "score": 85
+  },
+  {
+    "activity_type": "Practice",
+    "skill": "Product prioritization",
+    "title": "Prioritize features using RICE",
+    "status": "Completed",
+    "estimated_minutes": 60,
+    "actual_minutes": 50,
+    "score": 85
+  }
+]

@@ -76,7 +76,7 @@ const activities = [
   },
 ];
 
-const API_URL = "http://localhost:8000";
+const API_URL = "https://edupath-2-195z.onrender.com";
 
 async function saveProfile(profile) {
   const response = await fetch(`${API_URL}/api/profile`, {
